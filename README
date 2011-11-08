@@ -1,0 +1,11 @@
+CBR Extractor v1.0
+
+1) Extract cbrextractor.zip
+2) Start Menu -> Run -> cmd.exe
+3) Drag in "cbrextractor.exe" (from cbrextractor.zip)
+4) Apply the parent directory of the cbrs you wish to extract as the argument
+
+Ex.
+> cbrextractor.exe E:\Comics
+
+By: Parth Gajaria
